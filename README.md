@@ -5,7 +5,30 @@ This repository contains Supplementary Materials for the paper: Breitwieser et a
 >**Warning**
 >Due to Github's file size limitation, the files `SF2-code.tar.gz` and `SF3-bdm-publication-image.tar.gz` are not included in this repository, but are available on Zenodo: [https://doi.org/10.5281/zenodo.7544675](https://doi.org/10.5281/zenodo.7544675).
 
-## Paper abstract
+
+## References
+
+If you find this repository useful, please cite the following works:
+
+>Lukas Breitwieser et al., BioDynaMo: a modular platform for high-performance agent-based simulation, Bioinformatics, Volume 38, Issue 2, 15 January 2022, Pages 453–460, [https://doi.org/10.1093/bioinformatics/btab649](https://doi.org/10.1093/bioinformatics/btab649)
+
+``` bibtex
+@article{breitwieser_biodynamo_2022,
+    author = {Breitwieser, Lukas and Hesam, Ahmad and de Montigny, Jean and Vavourakis, Vasileios and Iosif, Alexandros and Jennings, Jack and Kaiser, Marcus and Manca, Marco and Di Meglio, Alberto and Al-Ars, Zaid and Rademakers, Fons and Mutlu, Onur and Bauer, Roman},
+    title = "{BioDynaMo: a modular platform for high-performance agent-based simulation}",
+    journal = {Bioinformatics},
+    volume = {38},
+    number = {2},
+    pages = {453-460},
+    year = {2021},
+    month = {09},
+    issn = {1367-4803},
+    doi = {10.1093/bioinformatics/btab649},
+    url = {https://doi.org/10.1093/bioinformatics/btab649}
+}
+```
+
+## Paper Abstract
 
 Agent-based modeling plays an essential role in gaining insights into biology, sociology, economics, and other fields. However, many existing agent-based simulation platforms are not suitable for large-scale studies due to the low performance of the underlying simulation engines. To overcome this limitation, we present a novel high-performance simulation engine.
 

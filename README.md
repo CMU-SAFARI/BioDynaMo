@@ -12,11 +12,15 @@ Our evaluation shows an order of magnitude improvement over Biocellion, three or
 
 ## List of Files
 
+
 * `SF0-additional-evaluations.pdf`: This document complements the main paper by providing additional performance evaluations.
 * `SF1-readme.pdf`: This document provides detailed documentation, step-by-step instructions to reproduce the results, and ideas on how to reuse and repurpose this artifact.
-* `SF2-code-archive.tar.gz`: This archive contains all the necessary code to produce all results shown in the paper.
+* `SF2-code.tar.gz`: This archive contains all the necessary code to produce all results shown in the paper.
 * `SF3-bdm-publication-image.tar.gz`: This archive contains a self-contained docker image to simplify executing our benchmarks and aid long-term reproducibility.
 * `SF4-raw-results.tar.gz`: This archive contains the raw results we obtained when we executed the benchmarks on our systems.
+
+>**Warning**
+>Due to Github's file size limitations, the files `SF2-code.tar.gz` and `SF3-bdm-publication-image.tar.gz` are exclusively hosted on Zenodo: [https://doi.org/10.5281/zenodo.7543892](https://doi.org/10.5281/zenodo.7543892).
 
 ## License Information
 

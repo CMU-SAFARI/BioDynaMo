@@ -6,9 +6,22 @@ This repository contains Supplementary Materials for the paper: Breitwieser et a
 >Due to Github's file size limitation, the files `SF2-code.tar.gz` and `SF3-bdm-publication-image.tar.gz` are not included in this repository, but are available on Zenodo: [https://doi.org/10.5281/zenodo.7544675](https://doi.org/10.5281/zenodo.7544675).
 
 
-## References
+## Citation
 
 If you find this repository useful, please cite the following works:
+
+>Lukas Breitwieser et al., High-Performance and Scalable Agent-Based Simulation with BioDynaMo, arXiv, 17 January 2023, [https://doi.org/10.48550/arXiv.2301.06984](https://doi.org/10.48550/arXiv.2301.06984)
+
+```bibtex
+@article{breitwieser_biodynamo_2023,
+  title = {{High-Performance and Scalable Agent-Based Simulation with BioDynaMo}},
+  url = {https://doi.org/10.48550/arXiv.2301.06984},
+  journal = {arXiv},
+  author = {Breitwieser, Lukas and Hesam, Ahmad and Rademakers, Fons and Luna, Juan Gómez and Mutlu, Onur},
+  year = {2023},
+  doi = {10.48550/arXiv.2301.06984},
+}
+```
 
 >Lukas Breitwieser et al., BioDynaMo: a modular platform for high-performance agent-based simulation, Bioinformatics, Volume 38, Issue 2, 15 January 2022, Pages 453–460, [https://doi.org/10.1093/bioinformatics/btab649](https://doi.org/10.1093/bioinformatics/btab649)
 
